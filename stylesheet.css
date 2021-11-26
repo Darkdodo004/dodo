@@ -1,0 +1,263 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 2770px;
+}
+
+#top {
+    height: 500px;
+    width: 1300px;
+    margin-left: 126px;
+
+}
+
+#name_section {
+    margin-left: 430px;
+    font-size: 40px;
+    text-decoration: rgb(218, 116, 116);
+    display: block;
+    height: 50px;
+    font-family: fantasy;
+}
+
+#name_section img {
+    height: 49px;
+    width: 90px;
+}
+
+#navbar {
+    height: 50px;
+    width: 100%;
+    background: black;
+    border-radius: 10px;
+}
+
+
+#navbar ul {
+    float: right;
+
+}
+
+#navbar ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+
+}
+
+#navbar ul li a:hover {
+    color: blueviolet;
+
+}
+
+#aboutus {
+    height: 400px;
+    width: 100%;
+    /*  background: url(aboutus.jpg);
+    background-size: 41%;
+    background-repeat: no-repeat;*/
+    background: border-box;
+}
+
+
+.p1 {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 60px;
+    display: block;
+    position: relative;
+    margin-left: 50px;
+    top: 50px;
+
+}
+
+.p2 {
+    margin-top: 50px;
+    display: block;
+    position: relative;
+    top: 60px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.p3 {
+    margin-top: 50px;
+    display: block;
+    position: relative;
+    top: 20px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+/*.p4{
+    background: royalblue;
+    display: block;
+    position: relative;
+    margin-top: 20px;
+    top: 100px;
+    float: right;
+}*/
+#gallery {
+
+    margin-left: 51px;
+    height: 500px;
+    width: 1300px;
+    background: url(collage.jpg);
+    background-size: 1300px 500px;
+}
+
+#services {
+    margin-top: 10px;
+    margin-left: 51px;
+    height: 1000px;
+    width: 1300px;
+    background: url(aboutus.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 1000px;
+}
+
+.ser {
+    font-size: 35px;
+    margin-left: 523px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ser1 {
+    height: 200px;
+    width: 200px;
+    background: url(service.jpg);
+    margin-left: 30px;
+    float: left;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+
+}
+
+.ser11 {
+    height: 200px;
+    width: 1000px;
+    
+    margin-left: 244px;
+    position: absolute;
+
+}
+
+.ser2 {
+    display: block;
+    height: 200px;
+    width: 200px;
+    background: url(maintainance.jpg);
+    margin-left: 30px;
+    margin-top: 265px;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+
+}
+
+.ser22 {
+    height: 200px;
+    width: 1000px;
+    
+    margin-left: 244px;
+    float: left;
+    position: static;
+}
+
+.ser3 {
+    display: block;
+    height: 200px;
+    width: 200px;
+    background: url(pickup.jpg);
+    margin-left: 30px;
+    margin-top: 20px;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+
+}
+
+.ser33 {
+    height: 200px;
+    width: 1000px;
+   
+    margin-left: 244px;
+    float: left;
+
+}
+
+.ser4 {
+    display: block;
+    margin-top: 20px;
+    height: 200px;
+    width: 200px;
+    background: url(engine.jpg);
+    margin-left: 30px;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+
+}
+
+.ser44 {
+    height: 200px;
+    width: 1000px;
+   
+    margin-left: 244px;
+    float: left;
+
+}
+
+.pclass {
+    font-size: 20px;
+    
+}
+.pclass1{
+    font-family: cursive;
+}
+#modification{
+    height:400px;
+    width: 1300px;
+    background: url(1.jpg);
+    background-size: 1300px 400px;
+    margin-left: 50px;
+}
+.modi{
+    font-size: 30px;
+    margin-left: auto;
+    color: paleturquoise;
+    margin-left: 500px;
+    display: inline-block;
+    
+}
+#modi1{
+    padding: 50px;
+    margin-left: 100px;
+}
+#modi1 img{
+    padding: 20px;
+}
+#contact{
+    height:64px;
+    width: 1300px;
+    background:powderblue;
+}
+.cont{
+    font-size: 50px;
+}
+#contact p{
+    font-size: 10px;
+    font-family: serif;
+}
+#footer{
+    margin-top: 10px;
+    height: 20px;
+    width: 1300px;
+    background: white;
+}
